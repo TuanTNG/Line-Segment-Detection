@@ -12,8 +12,7 @@ Team member of a team with 2 people. I mainly focus on developing/modifying a fa
 ## Results
 In process.
 ### Model benchmark
-Test on PC: 6-core Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz, 16 GiB RAM
-Model run with 4 fps
+Test on PC: 6-core Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz, 16 GiB RAM: _**Model run with 4 fps**_
 ### Visualization
 <p float="left">
   <img src="imgs/result_1.png" width="1000" />
