@@ -9,9 +9,9 @@ The code belongs to CyberCore AI.
 - Small model with acceptable accuracy and run at least 10 fps on CPU i5-9400.
 
 ## Role
-Team member of a team with 2 people. I mainly focus on developing/modifying a fast and robust model, pre-processing dataset, and implement many loss functions.
+Team member of a team with 2 people. I mainly focus on developing/modifying a fast and robust model, pre-processing datasets, and implementing many loss functions.
 ## Results
-In process.
+Delivered to customer.
 ### Model benchmark
 Test on PC: 6-core Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz, 16 GiB RAM: _**Model run with 4 fps**_
 ### Visualization
